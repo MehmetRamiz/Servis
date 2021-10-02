@@ -7,3 +7,4 @@ C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\ne
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.csproj.CoreCompileInputs.cache
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.dll
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.pdb
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.csproj.AssemblyReference.cache

@@ -19,3 +19,10 @@ C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\obj\Debug\ne
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\obj\Debug\netcoreapp3.1\ServisProgrami.API.dll
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\obj\Debug\netcoreapp3.1\ServisProgrami.API.pdb
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\obj\Debug\netcoreapp3.1\ServisProgrami.API.genruntimeconfig.cache
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\bin\Debug\netcoreapp3.1\ServisProgrami.Core.dll
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\bin\Debug\netcoreapp3.1\ServisProgrami.Data.dll
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\bin\Debug\netcoreapp3.1\ServisProgrami.Service.dll
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\bin\Debug\netcoreapp3.1\ServisProgrami.Core.pdb
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\bin\Debug\netcoreapp3.1\ServisProgrami.Data.pdb
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\bin\Debug\netcoreapp3.1\ServisProgrami.Service.pdb
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgramı.API\obj\Debug\netcoreapp3.1\ServisProgrami.API.csproj.CopyComplete

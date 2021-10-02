@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ServisProgrami.Data/1.0.0": {
+        "dependencies": {
+          "ServisProgrami.Core": "1.0.0"
+        },
         "runtime": {
           "ServisProgrami.Data.dll": {}
+        }
+      },
+      "ServisProgrami.Core/1.0.0": {
+        "runtime": {
+          "ServisProgrami.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ServisProgrami.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServisProgrami.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
