@@ -1,0 +1,9 @@
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\bin\Debug\netcoreapp3.1\ServisProgrami.Core.deps.json
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\bin\Debug\netcoreapp3.1\ServisProgrami.Core.dll
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\bin\Debug\netcoreapp3.1\ServisProgrami.Core.pdb
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.AssemblyInfoInputs.cache
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.AssemblyInfo.cs
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.csproj.CoreCompileInputs.cache
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.dll
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Core\obj\Debug\netcoreapp3.1\ServisProgrami.Core.pdb
