@@ -27,7 +27,7 @@ namespace ServisProgrami.Core.Models
 
         public string Kilometre { get; set; }
 
-        public virtual Musteri Musteri { get; set; }
+        public virtual Customers Musteri { get; set; }
 
     }
 }

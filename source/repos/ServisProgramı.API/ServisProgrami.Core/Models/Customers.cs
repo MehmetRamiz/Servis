@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ServisProgrami.Core.Models
 {
-    public class Musteri
+    public class Customers
     {
 
         public int id { get; set; }
