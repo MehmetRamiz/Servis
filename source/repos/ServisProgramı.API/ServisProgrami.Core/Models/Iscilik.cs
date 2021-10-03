@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ServisProgrami.Core.Models
 {
-    class Iscilik
+    public class Iscilik
     {
         public int id { get; set; }
 

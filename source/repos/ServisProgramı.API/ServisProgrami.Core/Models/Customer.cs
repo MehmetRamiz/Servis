@@ -1,13 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace ServisProgrami.Core.Models
 {
-    public class Customers
+    public class Customer
     {
 
+        public Customer()
+        {
+            Vehicles = new Collection<Vehicle>();
+        }
         public int id { get; set; }
 
         public string HesapAdi { get; set; }
@@ -20,6 +25,8 @@ namespace ServisProgrami.Core.Models
         public DateTime RelaseDate ;
 
         public  string Telefon { get; set; }
+
+       
 
         public ICollection<Vehicle> Vehicles { get; set; }
 

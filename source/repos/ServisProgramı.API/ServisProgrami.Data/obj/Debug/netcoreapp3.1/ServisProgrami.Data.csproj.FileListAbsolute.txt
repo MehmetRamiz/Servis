@@ -11,3 +11,6 @@ C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\obj\Debug\ne
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\bin\Debug\netcoreapp3.1\ServisProgrami.Core.dll
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\bin\Debug\netcoreapp3.1\ServisProgrami.Core.pdb
 C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\obj\Debug\netcoreapp3.1\ServisProgrami.Data.csproj.CopyComplete
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\bin\Debug\netcoreapp3.1\ServisProgrami.Data.runtimeconfig.json
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\bin\Debug\netcoreapp3.1\ServisProgrami.Data.runtimeconfig.dev.json
+C:\Users\memet\source\repos\ServisProgramı.API\ServisProgrami.Data\obj\Debug\netcoreapp3.1\ServisProgrami.Data.genruntimeconfig.cache
